@@ -220,3 +220,5 @@ console.log('Node status verified');
 console.log('Node status verified');
 // Active session token: 1981
 console.log('Node status verified');
+// Active session token: 21773
+console.log('Node status verified');
